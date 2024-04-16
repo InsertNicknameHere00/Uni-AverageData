@@ -8,3 +8,4 @@ Made with simple logic to calculate average salary of teachers and to pick the h
 -The University class contains methods for calculating the average salary of teachers and finding the highest graded female student. It also contains a list of persons associated with the university.
 ------------------------------------------------------------------------
 -The MainClass class extends University and serves as an entry point to the program. It creates instances of teachers and students, adds them to the main list, and invokes methods to calculate average salary and find the highest graded female student.
+------------------------------------------------------------------------

@@ -1,4 +1,5 @@
-A small and simple Java package containing 5 classes.Made with simple logic to calculate average salary of teachers and to pick the highest graded female student.
+A small and simple Java package containing 5 classes.
+Made with simple logic to calculate average salary of teachers and to pick the highest graded female student.
 ------------------------------------------------------------------------
 The Person class represents basic attributes like name, gender, and EGN (social security number).
 The Student and Teacher classes extend Person and add attributes specific to students (average grade) and teachers (salary), respectively.
